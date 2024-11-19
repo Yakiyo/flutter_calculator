@@ -1,3 +1,3 @@
 # calculator
 
-A new Flutter project.
+Simple flutter calculator app for App Dev mentorship classes.
