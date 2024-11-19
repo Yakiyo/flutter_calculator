@@ -1,7 +1,8 @@
 name: calculator
-description: "A new Flutter project."
+description: "Demo calculator app"
 publish_to: 'none'
 version: 0.1.0
+repository: "https://github.com/Yakiyo/calculator"
 
 environment:
   sdk: ^3.5.4
